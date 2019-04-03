@@ -1,0 +1,2 @@
+# mmo
+memoring_words
